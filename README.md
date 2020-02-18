@@ -11,5 +11,4 @@ To build this page we have used
 >CSS  
 >JavaScript  
 
-<img src="./images/ss1.png" style="width:440px;border:2px solid white;display:block;margin:0 auto;">
-<figcaption style="display:flex;background-color:orange;color:black;margin:0 auto;width:15%;padding-left:10px;font-weight:900"> Our page</figcaption>
+<img src="./images/ss1.png" alt="our page" width="420px">
